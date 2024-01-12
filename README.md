@@ -14,7 +14,7 @@ https://en.yna.co.kr/view/AEN20231102007200315  ai crowd monitoring seoul subway
 
 
 
-## Models
+## Csrnet algorithms
 
 - csrnet-keras  https://github.com/ZhengPeng7/CSRNet-Keras/tree/master
 
