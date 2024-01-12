@@ -12,6 +12,7 @@ https://www.sciencedirect.com/science/article/pii/S187705092300220X    crowd cou
 
 https://en.yna.co.kr/view/AEN20231102007200315  ai crowd monitoring seoul subway
 
+https://intelgic.com/insights/crowd-analysis-using-vision-ai-5-trends-to-watch-in-2024/ 
 
 
 ## Csrnet_algorithms
@@ -36,4 +37,5 @@ https://en.yna.co.kr/view/AEN20231102007200315  ai crowd monitoring seoul subway
 
 
 ## CSRNet_Study
+
 - 
