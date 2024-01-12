@@ -1,7 +1,7 @@
 # CSRNet-Crowd-Detection
 ### Table of Content 
 
-* [models](#models)
+* [CSRNet_algorithms](#csrnet_algorithms)
 * [CSRNet Study](#csrnet_study)
 
 ## generals
@@ -14,7 +14,7 @@ https://en.yna.co.kr/view/AEN20231102007200315  ai crowd monitoring seoul subway
 
 
 
-## Csrnet algorithms
+## Csrnet_algorithms
 
 - csrnet-keras  https://github.com/ZhengPeng7/CSRNet-Keras/tree/master
 
