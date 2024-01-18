@@ -14,6 +14,18 @@ https://en.yna.co.kr/view/AEN20231102007200315  ai crowd monitoring seoul subway
 
 https://intelgic.com/insights/crowd-analysis-using-vision-ai-5-trends-to-watch-in-2024/ 
 
+papers:
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1802.10062.pdf  dialeted CNN
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1707.09605.pdf   = CNN, cascaded multi task learning of high density estimation
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1912.03677.pdf?  = crowd counting, image translation
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2003.00217.pdf = NAS-count, counting by density
+
+
+
 
 ## Csrnet_algorithms
 
@@ -31,7 +43,15 @@ https://intelgic.com/insights/crowd-analysis-using-vision-ai-5-trends-to-watch-i
 
 - https://github.com/hcongvan/Crowed-Counting
 
-- 
+- kaggle
+
+https://www.kaggle.com/code/weijiehung/csrnet
+
+https://www.kaggle.com/code/tthien/csrnet-tf-shanghaitech-v9/notebook
+
+https://www.kaggle.com/search?q=CSRnet  search results
+
+
 
   
 
