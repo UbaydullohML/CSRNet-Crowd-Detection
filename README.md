@@ -4,7 +4,7 @@
 * [CSRNet_algorithms](#csrnet_algorithms) 
 * [CSRNet Study](#csrnet_study) 
 
-## generals
+## generals 
 
 https://supperundsupper.com/en/usecases/crowd-control-using-artificial-intelligence
 
