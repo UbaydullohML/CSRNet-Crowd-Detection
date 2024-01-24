@@ -45,6 +45,8 @@ https://github.com/wk910930/crowd_density_segmentation?tab=readme-ov-file  = cro
 
 https://github.com/katnoria/crowd-density/tree/master  = crowd density
 
+etc: https://github.com/ultralytics/yolov5/issues/1779   yolo for crowd detection
+
 - kaggle
 
 https://www.kaggle.com/code/weijiehung/csrnet
@@ -74,4 +76,5 @@ https://link.springer.com/article/10.1007/s11042-020-10035-z   = psnr, ssim
 https://medium.com/@kaamyakpant_67666/building-a-crowd-counting-model-using-deep-learning-e8b8e925674e  = crowd counting model
 
 https://medium.com/nanonets/dense-and-sparse-crowd-counting-methods-and-techniques-a-review-bae04fdbf062  = dense crowd counting
+
 
