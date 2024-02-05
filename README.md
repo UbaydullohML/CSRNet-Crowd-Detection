@@ -78,3 +78,15 @@ https://medium.com/@kaamyakpant_67666/building-a-crowd-counting-model-using-deep
 https://medium.com/nanonets/dense-and-sparse-crowd-counting-methods-and-techniques-a-review-bae04fdbf062  = dense crowd counting
 
 
+
+
+## outputs
+
+![image](https://github.com/UbaydullohML/CSRNet-Crowd-Detection/assets/75980506/c5776d48-e1c9-4703-be13-1b140cd86c17)
+
+![image](https://github.com/UbaydullohML/CSRNet-Crowd-Detection/assets/75980506/3703ea3e-2cea-403c-8615-9243d424a97e)
+
+![image](https://github.com/UbaydullohML/CSRNet-Crowd-Detection/assets/75980506/970b6a6d-e940-4dc7-9f8f-a3341d2f121d)
+
+![image](https://github.com/UbaydullohML/CSRNet-Crowd-Detection/assets/75980506/c6f3d021-4654-4d77-baf9-459f98b12c94)
+
